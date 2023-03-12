@@ -12,9 +12,9 @@ https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js
 
 可配合argument一同使用。现支持参数：
 
-`input`：配置关键词列表（可选`zh`,`enFull`,`enShort`)
+`input`：配置关键词列表（可选`zh`,`enFull`,`enShort`, `enShort3`)
 
-`output`：配置输出国家列表（可选`zh`,`enFull`,`enShort`)
+`output`：配置输出国家列表（可选`zh`,`enFull`,`enShort`, `enShort3`)
 
 `airport`：机场名
 
